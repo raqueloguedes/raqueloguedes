@@ -1,6 +1,6 @@
 ### Olá, eu sou a Raquel ^^
 
-    <img src=octocat_raquel.png width="300" height="350">
+    <img src="octocat_raquel.png" width="300" height="350">
 
 ---
 
