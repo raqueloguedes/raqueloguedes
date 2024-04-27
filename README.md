@@ -1,5 +1,6 @@
 ### Olá, eu sou a Raquel ^^
-![octocat raquel](https://github.com/raqueloguedes/raqueloguedes/assets/166818000/cddeafc2-78a3-49d7-b866-664c3de88399)
+
+    <img src=octocat_raquel.png width="300" height="350">
 
 ---
 
